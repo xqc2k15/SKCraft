@@ -1,4 +1,4 @@
-SKCraft Launcher Supported by <a href="https://www.ej-technologies.com/install4j">multi-platform installer builder</a>
+SKCraft Launcher Supported by <a id="1" href="https://www.ej-technologies.com/install4j">multi-platform installer builder</a>
 ================================================================================================================
 
 ![Now with 1.13+ support!](readme/now_with_support.png)
