@@ -5,7 +5,7 @@ SKCraft Launcher
 
 [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/offbeatwitch/donate)
 
-Supported by <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+Supported by <a href="https://www.ej-technologies.com/install4j">multi-platform installer builder</a>
 
 *If you rely on this software, please consider [donating](https://liberapay.com/offbeatwitch/donate) to help keep it maintained!*
 
