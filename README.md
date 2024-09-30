@@ -1,11 +1,11 @@
-SKCraft Launcher
-================
+SKCraft Launcher Supported by <a href="https://www.ej-technologies.com/install4j">multi-platform installer builder</a>
+================================================================================================================
 
 ![Now with 1.13+ support!](readme/now_with_support.png)
 
 [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/offbeatwitch/donate)
 
-Supported by <a href="https://www.ej-technologies.com/install4j">multi-platform installer builder</a>
+
 
 *If you rely on this software, please consider [donating](https://liberapay.com/offbeatwitch/donate) to help keep it maintained!*
 
