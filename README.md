@@ -5,6 +5,8 @@ SKCraft Launcher
 
 [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/offbeatwitch/donate)
 
+Supported by <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 *If you rely on this software, please consider [donating](https://liberapay.com/offbeatwitch/donate) to help keep it maintained!*
 
 Need to make it easy for people to install and play your modpack? The SKCraft Launcher platform may be for you if:
